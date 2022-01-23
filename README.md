@@ -1,4 +1,4 @@
-# fLUTTER Onoareing Ui Kit
+# fLUTTER OnBoarding Ui Kit
 
 
 => OnBoarding
